@@ -26,5 +26,5 @@ Integrated 'Add to Cart' functionality, allowing users to add desired items to t
 Developed a dynamic shopping cart feature that displays the total amount payable and allows users to manage their selections.<br/>
 
 How to use:-<br/>
-npm install react-router-dom
+npm install react-router-dom <br/>
 npm start
